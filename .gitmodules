@@ -1,3 +1,12 @@
 [submodule "COM_217_Spring2020"]
 	path = COM_217_Spring2020
 	url = https://github.com/viraatdas/COM_217_Spring2020.git
+[submodule "CS373_Spring2020"]
+	path = CS373_Spring2020
+	url = https://github.com/viraatdas/CS373_Spring2020.git
+[submodule "CS381_Spring2020"]
+	path = CS381_Spring2020
+	url = https://github.com/viraatdas/CS381_Spring2020.git
+[submodule "CS_251_Fall2019"]
+	path = CS_251_Fall2019
+	url = https://github.com/viraatdas/CS_251_Fall2019.git
