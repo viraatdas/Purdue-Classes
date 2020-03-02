@@ -10,3 +10,12 @@
 [submodule "CS_251_Fall2019"]
 	path = CS_251_Fall2019
 	url = https://github.com/viraatdas/CS_251_Fall2019.git
+[submodule "CS_250"]
+	path = CS_250
+	url = https://github.com/viraatdas/CS_250.git
+[submodule "CS_182_Latex_HW"]
+	path = CS_182_Latex_HW
+	url = https://github.com/viraatdas/CS_182_Latex_HW.git
+[submodule "CS490_iOS-Dev"]
+	path = CS490_iOS-Dev
+	url = https://github.com/viraatdas/CS490_iOS-Dev.git
