@@ -1,0 +1,14 @@
+{
+        "queries": [
+                {
+                        "text": "#combine(information retrieval)",
+                        "number": "1"
+                
+                },
+                {
+                    "text": "#combine(computer)",
+                    "number": "2"
+                }
+        ]
+
+}
