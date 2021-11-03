@@ -1,0 +1,8 @@
+Viraat Das -- 0030848769
+Q0
+-- Student interaction with other students / individuals: C
+-- On using online resources: B 
+---- https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string
+---- https://regex101.com/
+---- https://stackoverflow.com/questions/47454788/common-elements-between-two-lists-with-no-duplicates
+
